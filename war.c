@@ -26,11 +26,19 @@ int main() {
     int opção = 0;
 
     do {
-
-
-
-
+        printf("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX \n");
+        printf("Jogo War \n");
+        printf(XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX \n);
+        printf("1- cadastrar dados do jogo\n");
+        printf("2- Listar dados do jogo \n");
+        printf("0- Sair");
+        printf("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX \n");
+        printf("Escolha uma opção:");
         
+
+
+
+
     }
 
 
